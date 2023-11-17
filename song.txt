@@ -3,5 +3,3 @@ faint
 in the end
 don't stay
 
-session
-pupercut
